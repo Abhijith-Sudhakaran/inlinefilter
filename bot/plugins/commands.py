@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Cinemapranthanmaar', url="https://t.me/Cinemapranthanmaar"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/shijilraj"
+                                    'Cinemapranthanmaar', url="https://t.me/Cinemapranthanmaar"
                                 )
                         ]
                     ]
